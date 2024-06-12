@@ -14,7 +14,7 @@
 
 Ниже представлена блок-схема алгоритма, который решает поставленную задачу:
 
-<img alt="Блок-схема алгоритма" height="800" src="D:\_GEEKBRAINS\final\final\bs_final.jpg" title="Блок-схема алгоритма"/>
+<img alt="Блок-схема алгоритма" height="800" src="https://github.com/DolceDarina/final/blob/master/bs_final.jpg" title="Блок-схема алгоритма"/>
 
 ## Решение
 
