@@ -15,3 +15,15 @@
 Ниже представлена блок-схема алгоритма, который решает поставленную задачу:
 
 <img alt="Блок-схема алгоритма" height="800" src="D:\_GEEKBRAINS\final\final\bs_final.jpg" title="Блок-схема алгоритма"/>
+
+## Решение
+
+Решение представлено в виде функции `get_short_strings`, которая принимает массив строк и возвращает новый массив, содержащий только строки длиной не более 3 символов.
+
+```python
+def get_short_strings(strings):
+    short_strings = []
+    for s in strings:
+        if len(s) <= 3:
+            short_strings.append(s)
+    return short_strings
